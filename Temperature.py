@@ -4,5 +4,5 @@ print ("Hello ",name, "!")
 print ("*********************************")
 x= input(" Enter Celsius:")
 Celsius = float(x)
-Fahrenheit =(float(x) * 9/5)+ 32
+Fahrenheit =(Celsius * 9/5)+ 32
 print ("Fahrenheit:",Fahrenheit)
