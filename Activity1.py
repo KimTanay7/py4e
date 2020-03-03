@@ -1,0 +1,10 @@
+print ("Activity 1")
+name = input("Name:")
+print ("Hello ",name, "!")
+print ("_____________________________________")
+x= input(" Enter Hours:")
+hours = int(x)
+z= input ( "Enter Rate:")
+rate = int(z)
+compute= hours * rate
+print ("Pay: ", compute)
