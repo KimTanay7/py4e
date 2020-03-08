@@ -1,5 +1,5 @@
 print ("**************************")
-print ("* Activity 3-Conditional *")
+print ("* Activity 1-Conditional *")
 print ("**************************")
 name = input("Name:")
 print ("Hello ",name, "!")
